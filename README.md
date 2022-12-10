@@ -24,5 +24,5 @@ When all the players have finished the dealer plays his hand.
 # Author
 
 Yeison Serrano<br>
-<a href="https://github.com">Github</a><br>
-<a href="https://github.com">Linkedin</a>
+<a href="https://github.com/ydanielsb97">Github</a><br>
+<a href="https://www.linkedin.com/in/yeison-serrano-1bb1251a6">Linkedin</a>
